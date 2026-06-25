@@ -1,5 +1,5 @@
 # Hi, I'm Anthony 👋
-<a href="https://www.google.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/anthony-j-almendarez-965a59417"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Projects
 

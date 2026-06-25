@@ -1,8 +1,8 @@
 ## Hi, I'm Anthony 👋
-<a href="https://www.google.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<a href="https://www.credly.com/badges/08c1ef7c-ffbe-4798-8755-484b5d2758c2/linked_in?t=tgubss"><img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" /></a>
-
+<div>
+  <a href="https://www.google.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.credly.com/badges/08c1ef7c-ffbe-4798-8755-484b5d2758c2/linked_in?t=tgubss"><img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" /></a>
+</div>
 
 <!--
 **Anthony-J-Almendarez/Anthony-J-Almendarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

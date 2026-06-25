@@ -1,5 +1,5 @@
 ## Hi, I'm Anthony 👋
-<a href="google.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.google.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **Anthony-J-Almendarez/Anthony-J-Almendarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
